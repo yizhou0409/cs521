@@ -1,6 +1,0 @@
-epsilon,deeppoly_verified_percent,deeppoly_seconds_per_image,dual_lower_verified_percent,dual_lower_seconds_per_image
-0.005,99.0,0.1405,99.0,0.2463
-0.01,94.0,0.1382,94.0,0.2471
-0.02,83.0,0.137,83.0,0.2492
-0.03,49.0,0.1369,49.0,0.2503
-0.05,2.0,0.1413,2.0,0.2562
