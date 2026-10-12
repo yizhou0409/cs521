@@ -1,0 +1,8 @@
+Network: starter/mnist_relu_3_100.onnx
+Clean accuracy on 100 images: 99.00%
+     eps   verified   time/img (s)
+   0.005     99.00%         0.1405
+    0.01     94.00%         0.1382
+    0.02     83.00%         0.1370
+    0.03     49.00%         0.1369
+    0.05      2.00%         0.1413

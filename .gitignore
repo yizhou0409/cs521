@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+cfenv/
+cf-source/
+build_*/
+data/

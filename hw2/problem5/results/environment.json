@@ -1,0 +1,15 @@
+{
+  "platform": "macOS-15.6.1-arm64-arm-64bit",
+  "machine": "arm64",
+  "python": "3.10.9",
+  "torch": "2.1.0",
+  "torchvision": "0.15.2a0",
+  "numpy": "1.23.5",
+  "onnx": "1.16.2",
+  "constraintflow_commit": "881e2703aa0a1fcf8022c8664632a16f9c0bfbd5",
+  "device": "cpu",
+  "OMP_NUM_THREADS": 1,
+  "MKL_NUM_THREADS": 1,
+  "torch_num_threads": 1,
+  "CF_NO_PARALLEL": 1
+}
